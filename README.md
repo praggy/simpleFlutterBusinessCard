@@ -1,16 +1,5 @@
-# simpleFlutterBusinessCard
+This is a very simple flutter application. This app will enable beginners to get accustomed to flutter environment.
 
-A new Flutter project.
+The application uses a stateless widget to display a business card.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The image for the business card is actually fetched via network call made to "https://picsum.photos/"
